@@ -1,4 +1,4 @@
-# Example SQL Server Dockerfiles
+## Example SQL Server Dockerfiles
 
 Example dockerfiles to attach a simple database to a SQL Server image in windows or linux container on Windows 10
 
@@ -8,7 +8,7 @@ docker build -t testimage -f C:\Docker\Builds\DockerFileLinux C:\docker\builds\
 
 docker build -t testimage -f C:\Docker\Builds\DockerFileWindows C:\docker\builds\
 
-# Source Images
+## Source Images
 
 microsoft/mssql-server-linux
 
